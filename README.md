@@ -1,5 +1,6 @@
-Spotify_Data_Analyst_CaseStudy
-In this Spotify case study activity table shows app installed and app purchase activities along with the country details.
+# Spotify_Data_Analyst_CaseStudy
+
+In this  Spotify case study activity table shows app installed and app purchase activities along with the country details.
 
 There are 5 questions customer need the answer
 
@@ -15,10 +16,9 @@ Q5) Among all the users who installed the app on any given day, how many did in 
 
 Tech Stack Used: MYSQL Worjbench DBMS
 
-INSIGHTS:
-
-Usage of Aggregate functions
-Subqueries
-CTE
-CASE statements
-Windows functions
+INSIGHTS: 
+1) Usage of Aggregate functions
+2) Subqueries
+3) CTE 
+4) CASE statements
+5) Windows functions
